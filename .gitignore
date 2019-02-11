@@ -1,2 +1,7 @@
 midi_songs/archive
 midi_songs
+weights
+data
+output
+
+*.pyc
